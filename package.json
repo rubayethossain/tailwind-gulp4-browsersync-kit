@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-gulp4-browsersync-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Md. Rubayet Hossain",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.4",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "tailwindcss": "^1.2.0"
+  },
+  "scripts": {
+    "dev": "gulp"
+  }
+}
